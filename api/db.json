@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is going to be my first stream on Streamy!",
+      "id": 2
+    },
+    {
+      "title": "Coding stream!!",
+      "description": "Rejoice, we gonna learn REDUX today!",
+      "id": 3
+    },
+    {
+      "title": "Coding stream!!",
+      "description": "Rejoice, we gonna learn REDUX today!",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation Editable",
+      "description": "We did edit it k?",
+      "id": 6
+    },
+    {
+      "title": "Refactored Patch Request",
+      "description": "Please fkn work brooo!",
+      "userId": "117158798902735028059",
+      "id": 7
+    }
+  ]
+}
